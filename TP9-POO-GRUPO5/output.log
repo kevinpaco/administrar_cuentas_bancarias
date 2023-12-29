@@ -1,0 +1,365 @@
+registro2022-11-03 13:36:30 DEBUG TestCliente:46 - Inicializacion de variables para pruebas unitarias
+2022-11-03 13:36:30 DEBUG TestCliente:46 - Inicializacion de variables para pruebas unitarias
+2022-11-03 13:36:30 DEBUG TestCliente:46 - Inicializacion de variables para pruebas unitarias
+2022-11-03 13:51:56 DEBUG TestCliente:46 - Inicializacion de variables para pruebas unitarias
+2022-11-03 13:51:56 DEBUG TestCliente:46 - Inicializacion de variables para pruebas unitarias
+2022-11-03 13:51:56 DEBUG TestCliente:46 - Inicializacion de variables para pruebas unitarias
+2022-11-03 13:53:42 DEBUG TestCliente:46 - Inicializacion de variables para pruebas unitarias
+2022-11-03 13:55:39 DEBUG TestCliente:46 - Inicializacion de variables para pruebas unitarias
+2022-11-03 13:56:40 DEBUG TestCliente:46 - Inicializacion de variables para pruebas unitarias
+2022-11-03 13:57:09 DEBUG TestCliente:46 - Inicializacion de variables para pruebas unitarias
+2022-11-03 13:57:56 DEBUG TestCliente:46 - Inicializacion de variables para pruebas unitarias
+2022-11-03 13:58:16 DEBUG TestCliente:46 - Inicializacion de variables para pruebas unitarias
+2022-11-03 14:00:36 DEBUG TestCliente:46 - Inicializacion de variables para pruebas unitarias
+2022-11-03 14:01:21 DEBUG TestCliente:46 - Inicializacion de variables para pruebas unitarias
+2022-11-03 14:02:46 DEBUG TestCliente:46 - Inicializacion de variables para pruebas unitarias
+2022-11-03 14:10:19 DEBUG TestCliente:46 - Inicializacion de variables para pruebas unitarias
+2022-11-03 14:10:19 DEBUG TestCliente:46 - Inicializacion de variables para pruebas unitarias
+2022-11-03 14:12:02 DEBUG TestCliente:46 - Inicializacion de variables para pruebas unitarias
+2022-11-03 14:47:55 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 14:49:23 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 14:50:47 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 14:50:47 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 14:54:34 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 14:55:25 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 14:55:41 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 14:56:02 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 14:56:19 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 14:56:47 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 14:57:14 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 14:58:28 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 15:00:39 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 15:02:09 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 15:04:00 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 15:05:48 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 15:08:05 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 15:08:49 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 15:09:54 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 15:10:32 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 15:11:17 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 15:11:42 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 15:12:34 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 15:12:43 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 15:12:44 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 15:13:56 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 15:15:28 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-03 17:46:58 DEBUG TestCliente:43 - Inicializacion de variables para pruebas unitarias
+2022-11-03 17:46:59 DEBUG TestCliente:43 - Inicializacion de variables para pruebas unitarias
+2022-11-03 17:48:14 DEBUG TestCliente:43 - Inicializacion de variables para pruebas unitarias
+2022-11-03 17:48:14 DEBUG TestCliente:43 - Inicializacion de variables para pruebas unitarias
+2022-11-03 18:49:12 DEBUG TestCliente:45 - Inicializacion de variables para pruebas unitarias
+2022-11-03 18:49:12 INFO  TestCliente:292 - Extrear dinero
+2022-11-03 18:49:12 ERROR TestCliente:301 - Error: No tiene saldo suficiente
+2022-11-03 18:53:23 DEBUG TestCliente:45 - Inicializacion de variables para pruebas unitarias
+2022-11-03 18:53:23 INFO  TestCliente:292 - Extrear dinero
+2022-11-03 18:53:23 ERROR TestCliente:301 - Error: No tiene saldo suficiente
+2022-11-22 00:16:45 DEBUG TestCliente:45 - Inicializacion de variables para pruebas unitarias
+2022-11-22 00:19:32 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-22 00:19:32 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 00:19:32 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 00:19:32 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 00:20:56 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-22 00:20:56 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 00:20:56 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 00:20:56 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 00:21:38 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-22 00:21:38 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 00:21:38 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 00:21:38 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 00:23:13 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-22 00:23:13 ERROR TestCliente:136 - Se trato de obtener una lista nula
+2022-11-22 00:23:13 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 00:23:13 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 00:23:13 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 00:41:52 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-22 00:41:53 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 00:41:53 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 00:41:53 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 00:47:30 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 4381265 adherido al cliente con dni: 35557261
+2022-11-22 00:47:45 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 4281265 adherido al cliente con dni: 35557261
+2022-11-22 00:58:25 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-22 00:58:26 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 00:58:26 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 00:58:26 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 00:58:40 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 4281265 adherido al cliente con dni: 35557261
+2022-11-22 00:58:55 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 4211265 adherido al cliente con dni: 35557261
+2022-11-22 01:14:04 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 01:31:17 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 01:41:18 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 01:42:55 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 01:44:15 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 01:45:12 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 01:46:51 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 01:50:50 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 01:56:41 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 02:00:01 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:09:38 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:09:38 INFO  TestCliente:75 - Extraer dinero
+2022-11-22 03:09:38 ERROR TestCliente:86 - Error: Se esta intentando añadir un adherente
+2022-11-22 03:10:11 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:10:11 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 03:10:12 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:10:12 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 03:10:12 ERROR TestCliente:88 - Error: No tiene saldo suficiente, ingrese otro monto
+2022-11-22 03:10:56 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:10:56 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 03:10:56 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:10:56 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 03:12:06 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:12:06 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 03:12:06 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:12:06 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 03:13:37 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:13:37 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 03:13:37 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:13:37 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 03:21:07 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:21:07 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 03:21:08 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:21:08 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 03:23:20 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:23:20 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 03:23:21 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:23:21 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 03:24:14 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:24:14 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 03:24:14 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:24:14 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 03:25:21 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:25:21 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 03:25:21 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:25:21 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 03:26:00 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:26:00 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 03:26:00 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:26:00 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 03:26:48 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:26:48 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 03:26:48 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:26:48 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 03:28:09 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:28:09 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 03:28:09 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:28:09 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 03:30:55 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:30:55 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 03:30:55 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:30:55 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 03:32:16 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:32:16 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 03:32:16 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:32:16 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 03:35:44 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:35:44 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 03:35:45 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:35:45 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 03:36:25 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:36:25 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 03:36:26 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:36:26 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 03:37:06 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:37:06 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 03:37:07 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:37:07 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 03:38:28 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:38:28 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 03:38:28 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:38:28 INFO  ClienteServiceImp:121 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 03:44:08 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:44:08 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:44:08 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:44:08 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:44:32 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:44:32 INFO  TestCliente:141 - Creando adherente...
+2022-11-22 03:44:33 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:44:33 INFO  TestCliente:147 - Adherente creado
+2022-11-22 03:45:59 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:45:59 INFO  TestCliente:141 - Creando adherente...
+2022-11-22 03:46:00 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:46:00 INFO  TestCliente:147 - Adherente creado
+2022-11-22 03:51:46 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:51:46 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:51:46 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:51:46 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:53:27 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:53:27 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:53:27 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:53:27 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:53:27 INFO  ClienteServiceImp:120 - Se creo un adherente con dni: 50231261 adherido al cliente con dni: 35557261
+2022-11-22 03:57:24 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-22 03:57:24 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:57:24 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:57:24 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 03:57:24 INFO  ClienteServiceImp:120 - Se creo un adherente con dni: 50231261 adherido al cliente con dni: 35557261
+2022-11-22 04:00:59 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-22 04:00:59 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:00:59 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:00:59 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:00:59 INFO  ClienteServiceImp:120 - Se creo un adherente con dni: 50231261 adherido al cliente con dni: 35557261
+2022-11-22 04:02:45 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-22 04:02:46 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:02:46 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:02:46 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:02:46 INFO  ClienteServiceImp:122 - Se creo un adherente con dni: 50231261 adherido al cliente con dni: 35557261
+2022-11-22 04:05:29 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-22 04:05:30 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:05:30 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:05:30 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:05:30 INFO  ClienteServiceImp:124 - Se creo un adherente con dni: 50231261 adherido al cliente con dni: 35557261
+2022-11-22 04:06:46 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-22 04:06:47 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:06:47 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:06:47 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:06:47 INFO  ClienteServiceImp:125 - Se creo un adherente con dni: 50231261 adherido al cliente con dni: 35557261
+2022-11-22 04:09:04 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-22 04:09:05 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:09:05 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:09:05 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:09:05 INFO  ClienteServiceImp:130 - Se creo un adherente con dni: 50231261 adherido al cliente con dni: 35557261
+2022-11-22 04:09:05 INFO  ClienteServiceImp:130 - Se creo un adherente con dni: 21331261 adherido al cliente con dni: 35557261
+2022-11-22 04:18:09 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 04:18:09 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 04:18:10 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:18:10 INFO  ClienteServiceImp:130 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 04:18:43 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 04:18:43 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 04:18:44 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:18:44 INFO  ClienteServiceImp:130 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 04:20:36 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 04:20:36 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 04:20:36 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:20:36 INFO  ClienteServiceImp:130 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 04:38:50 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 04:38:50 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 04:38:51 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:38:51 INFO  ClienteServiceImp:130 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 04:39:15 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 04:39:15 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 04:39:15 INFO  ClienteServiceImp:41 - Se creo un cliente nuevo
+2022-11-22 04:39:15 INFO  ClienteServiceImp:130 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 04:39:15 ERROR TestCliente:90 - Error: No tiene saldo suficiente, ingrese otro monto
+2022-11-22 05:24:59 DEBUG TestCliente:34 - Inicializacion de variables para pruebas unitarias
+2022-11-22 05:24:59 INFO  TestCliente:77 - Extraer dinero
+2022-11-22 05:24:59 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 05:24:59 INFO  ClienteServiceImp:168 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 06:11:31 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 06:11:31 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 06:11:32 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 06:11:32 INFO  ClienteServiceImp:168 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 06:13:28 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 06:13:28 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 06:13:29 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 06:13:29 INFO  ClienteServiceImp:168 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 06:19:11 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 06:19:11 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 06:19:12 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 06:19:12 INFO  ClienteServiceImp:168 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 06:20:11 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 06:20:11 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 06:20:11 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 06:20:11 INFO  ClienteServiceImp:168 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 09:25:23 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 09:25:23 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 09:25:23 ERROR TestCliente:104 - Error: Cliente existente
+2022-11-22 09:27:00 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 09:27:00 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 09:27:00 ERROR TestCliente:104 - Error: Cliente existente
+2022-11-22 09:30:41 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 09:30:41 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 09:30:42 ERROR TestCliente:104 - Error: Cliente existente
+2022-11-22 09:36:54 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 09:36:54 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 09:36:55 ERROR TestCliente:104 - Error: Cliente existente
+2022-11-22 09:39:11 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 09:39:11 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 09:39:11 ERROR TestCliente:104 - Error: Cliente existente
+2022-11-22 09:40:09 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 09:40:09 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 09:40:09 ERROR TestCliente:104 - Error: Cliente existente
+2022-11-22 09:41:40 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 09:41:40 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 09:41:40 ERROR TestCliente:104 - Error: Cliente existente
+2022-11-22 09:43:06 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 09:43:06 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 09:43:06 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 09:43:06 INFO  ClienteServiceImp:168 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 09:44:16 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 09:44:38 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 09:44:38 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 09:44:38 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 09:44:38 INFO  ClienteServiceImp:168 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 09:46:10 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 09:46:10 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 09:46:11 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 09:46:11 INFO  ClienteServiceImp:168 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 09:47:14 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 09:47:14 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 09:47:14 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 09:47:14 INFO  ClienteServiceImp:168 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 09:48:10 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 09:48:10 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 09:48:10 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 09:48:10 INFO  ClienteServiceImp:168 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 09:49:31 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 09:49:31 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 09:49:32 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 09:49:32 INFO  ClienteServiceImp:168 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 09:50:31 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 09:50:31 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 09:50:31 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 09:50:31 INFO  ClienteServiceImp:168 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 09:51:32 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 09:51:32 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 09:51:32 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 09:51:32 INFO  ClienteServiceImp:168 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 09:52:30 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2022-11-22 09:52:30 INFO  TestCliente:82 - Extraer dinero
+2022-11-22 09:52:30 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 09:52:30 INFO  ClienteServiceImp:168 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2022-11-22 10:09:57 DEBUG TestCliente:44 - Inicializacion de variables para pruebas unitarias
+2022-11-22 10:09:57 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 10:09:57 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 10:09:57 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 10:15:23 DEBUG TestCliente:43 - Inicializacion de variables para pruebas unitarias
+2022-11-22 10:15:23 INFO  TestCliente:140 - Creando adherente...
+2022-11-22 10:15:23 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 10:15:23 INFO  ClienteServiceImp:168 - Se creo un adherente con dni: 50231261 adherido al cliente con dni: 35557261
+2022-11-22 10:15:23 INFO  ClienteServiceImp:168 - Se creo un adherente con dni: 21331261 adherido al cliente con dni: 35557261
+2022-11-22 10:15:23 INFO  TestCliente:145 - Adherente creado
+2022-11-22 10:18:12 DEBUG TestCliente:43 - Inicializacion de variables para pruebas unitarias
+2022-11-22 10:18:12 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 10:18:12 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 10:18:12 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 10:18:13 INFO  ClienteServiceImp:106 - Se elimino un cliente con dni: 35557261
+2022-11-22 10:18:13 INFO  ClienteServiceImp:106 - Se elimino un cliente con dni: 40557261
+2022-11-22 10:24:24 DEBUG TestCliente:43 - Inicializacion de variables para pruebas unitarias
+2022-11-22 10:24:24 INFO  ClienteServiceImp:45 - Se creo un cliente nuevo
+2022-11-22 10:24:24 INFO  ClienteServiceImp:168 - Se creo un adherente con dni: 21331261 adherido al cliente con dni: 40557261
+2022-11-22 10:24:24 INFO  TestCliente:175 - Estado actual: inhabilitado
+2022-11-22 10:24:24 INFO  ClienteServiceImp:120 - Se habilito un cliente con dni: 21331261
+2022-11-22 10:24:24 INFO  TestCliente:178 - Estado actualizado: Habilitado
+2022-11-22 11:43:44 INFO  ClienteServiceImp:49 - Se creo un cliente nuevo
+2022-11-22 19:35:19 INFO  ClienteServiceImp:49 - Se creo un cliente nuevo
+2022-11-22 19:40:04 INFO  ClienteServiceImp:49 - Se creo un cliente nuevo
+2022-11-22 19:51:24 INFO  ClienteServiceImp:49 - Se creo un cliente nuevo
+2022-11-22 19:51:24 INFO  ClienteServiceImp:50 - Gracias por ser parte de nuestro banco
+2022-11-22 19:51:30 INFO  MovimientoServiceImp:74 - Se ha realizado con exito el deposito de 1234.0
+2022-11-22 19:51:30 INFO  MovimientoServiceImp:75 - Posee un saldo restante de 100000.0
+2022-11-22 19:54:02 INFO  ClienteServiceImp:49 - Se creo un cliente nuevo
+2022-11-22 19:54:02 INFO  ClienteServiceImp:50 - Gracias por ser parte de nuestro banco
+2022-11-22 19:54:11 INFO  MovimientoServiceImp:74 - Se ha realizado con exito el deposito de 1234.0 del cliente con id 5
+2022-11-22 19:54:11 INFO  MovimientoServiceImp:75 - Posee un saldo restante de 101234.0
+2022-11-22 20:04:46 INFO  ExcelServiceImp:47 - Se exporto de forma los movimientos del cliente Miguel Moreno
+2022-11-22 20:05:31 INFO  ExcelServiceImp:47 - Se exporto de forma los movimientos del cliente Miguel Moreno
+2022-11-22 20:05:38 INFO  ExcelServiceImp:47 - Se exporto de forma los movimientos del cliente Miguel Moreno
+2023-01-06 21:55:37 DEBUG TestCliente:39 - Inicializacion de variables para pruebas unitarias
+2023-01-06 21:55:37 INFO  TestCliente:102 - Depositar dinero
+2023-01-06 21:55:38 INFO  ClienteServiceImp:49 - Se creo un cliente nuevo con id null
+2023-01-06 21:55:38 INFO  ClienteServiceImp:50 - GraciasGabriel Molinapor ser parte de nuestro banco
+2023-01-06 21:55:38 INFO  ClienteServiceImp:164 - Se creo un adherente con dni: 35553261 adherido al cliente con dni: 35557261
+2023-01-06 21:55:38 INFO  MovimientoServiceImp:74 - Se ha realizado con exito el deposito de 200.0 del cliente con id 5
+2023-01-06 21:55:38 INFO  MovimientoServiceImp:75 - Posee un saldo restante de 10200.0
+2023-01-06 21:55:38 INFO  MovimientoServiceImp:74 - Se ha realizado con exito el deposito de 100.0 del cliente con id 5
+2023-01-06 21:55:38 INFO  MovimientoServiceImp:75 - Posee un saldo restante de 10300.0
+2023-01-06 21:55:38 INFO  MovimientoServiceImp:74 - Se ha realizado con exito el deposito de 50.0 del cliente con id null
+2023-01-06 21:55:38 INFO  MovimientoServiceImp:75 - Posee un saldo restante de 10350.0
